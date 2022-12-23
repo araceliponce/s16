@@ -22,13 +22,13 @@ PUT http://localhost:9000/api/users/63a5c57d5d42d43cbbab27b2 HTTP/1.1
 Content-Type: application/json
 
 {
-  "name": "jhonn conway",
+  "name": "yhon conway",
   "age": 65,
   "email": "conway@email.com"
 }
 
 
 ### delete one by id
-DELETE http://localhost:9000/api/users/63a5cca6a46d9106be623feb HTTP/1.1
+DELETE http://localhost:9000/api/users/63a5ccb0a46d9106be623fed HTTP/1.1
 
 
